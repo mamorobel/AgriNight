@@ -2,7 +2,8 @@
 
 ![Link to paper will be updated upon acceptance]()
 
-[![Supplementary Video](https://youtube.com)](https://youtu.be/lOF9b6lUggY?si=Af8AXnROYz6Cu8S0)
+📺 [Supplementary Video](https://youtu.be/lOF9b6lUggY?si=Af8AXnROYz6Cu8S0)
+
 
 **We propose an unsupervised day-to-night cross-modal image translation framework for nighttime visual navigation. By incorporating a pre-trained Contrastive Language–Image Pretraining (CLIP) model, the proposed framework is designed to preserve semantic consistency during day-to-night translation. Furthermore, a visibility mask is introduced to account for the limited effective sensing range of NIR nighttime cameras. We also introduce AgriNight—a novel dataset comprising 428 daytime and 549 nighttime images.**
 
