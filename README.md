@@ -167,3 +167,15 @@ We included a daytime segmentation checkpoint model for users who want to test o
 
 * `` python train_segment.py ``
 * `` python src/get_acc.py ``
+
+# Citation
+Please cite one of the following papers when including the dataset in your work for publication:
+```
+@inproceedings{MdCC26,
+  title={Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation},
+  author={Mamo, Robel and de Silva, Rajitha and Cielniak, Grzegorz and Choi, Taeyeong},
+  booktitle={2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2026},
+  organization={IEEE}
+}
+```
