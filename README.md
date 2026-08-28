@@ -172,7 +172,7 @@ We included a daytime segmentation checkpoint model for users who want to test o
 * `` python src/get_acc.py ``
 
 # Citation
-Please cite one of the following papers when including the dataset in your work for publication:
+Please cite the following paper when using the dataset or repository contents for publication:
 ```
 @inproceedings{MdCC26,
   title={Enabling 24-hour Agricultural Robotics: Unsupervised Day-to-Night Cross-Modal Image Translation for Nighttime Visual Navigation},
